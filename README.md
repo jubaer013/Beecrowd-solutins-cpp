@@ -1,1 +1,2 @@
-# Beecrowd-solutins-cpp
+# Beecrowd-solutins
+Here is my efforts......
